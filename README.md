@@ -96,4 +96,3 @@ This simulates how the model could be used in real fintech workflows.
 - Integrate the solution into a real-world fintech system  
 - Explore better sampling and cost-sensitive techniques for imbalanced data
 
----# Project_Loan-Prediction
